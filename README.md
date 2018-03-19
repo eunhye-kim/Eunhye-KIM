@@ -1,15 +1,15 @@
-# eunhye-kim.github.io/Eunhye-KIM/
+### eunhye-kim.github.io/Eunhye-KIM/
 ![](images/photo.jpg)
 
 
-# FORMATION
-###2013	Doctorat en Aménagement, Spécialité Ecologie industrielle et territoriale - Centre de Recherche sur l'Industrie et l'Aménagement, Université Paris 1. Thèse: Transitions énergétiques urbaines du XIXe au XXIe siècles (Paris) (en ligne)
+## FORMATION
+### 2013	Doctorat en Aménagement, Spécialité Ecologie industrielle et territoriale - Centre de Recherche sur l'Industrie et l'Aménagement, Université Paris 1. Thèse: Transitions énergétiques urbaines du XIXe au XXIe siècles (Paris) (en ligne)
 
 ### 2007 Master2 en Génie Urbain, Option Développement Urbain Durable - Université Paris Est Marne-la-Vallée. Mémoire: Planification énergétique à l'échelle du quartier
 
 ### 2002	Diplôme d'Ingénieur en Génie civil et Génie Urbain, Spécialité Génie urbain (Aménagement et Transport)- Université Hongik, Séoul
 
-# EXPERIENCES PROFESSIONNELLES
+## EXPERIENCES PROFESSIONNELLES
 ### Oct.2016- nov. 2017	Formatrice, Chargée de la Direction des études, Institut d'Aménagement des Territoires, d'Environnement et d'Urbanisme de Reims (IATEUR)
 ### MISSIONS :
 •	Formatrice sur la Urbanisme Durable (éco-quartier, certification)
