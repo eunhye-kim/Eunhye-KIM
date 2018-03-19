@@ -25,10 +25,6 @@
 •	Projet ANR Ville Durable-métabolisme urbain: étude sur les flux d'énergie et de matière, projet CNRS PIRVE Empreintes environnementale urbaines
 ### 2008- 2010	Ingénieure d'études et de recherche-Institut Français d'Urbanisme
 
-### 2007
-	Chargée d'études en HQE - Franck Boutté Consultant-Bureau d'études en urbanisme et en environnement (Paris) (CDD 3 mois)
-### MISSIONS :  Etudes urbaines, Diagnostic environnemental
-
 ### 2007	Chargée d’études en HQE, Eric Durand Consultant-Bureau d'études en urbanisme et en environnement (Montpellier) (Stage 5 mois)
 ###MISSIONS :  HQE, Approche Environnementale de l'Urbanisme, ISO 14001
 
@@ -36,8 +32,8 @@
 ###MISSIONS :  Enquête de terrain, mise en place d'un SIG
 
 
-## FORMATIONS CONTINUES : Compétition et régulation des marchés de l’énergie - Ecole des Mines de Paris (mars 2017), Les Plans de Déplacement Urbain, de l'évaluation à la révision- Ecole des Ponts (mars 2018)
+### FORMATIONS CONTINUES : Compétition et régulation des marchés de l’énergie - Ecole des Mines de Paris (mars 2017), Les Plans de Déplacement Urbain, de l'évaluation à la révision- Ecole des Ponts (mars 2018)
 
-## ACTIVITES DANS DES ASSOCIATIONS PROFESSIONNELLES :  Membre de l'Association internationale de l'écologie industrielle (ISIE), Trésorière de l'Association des Scientifiques COréens en France (ASCOF)
+### ACTIVITES DANS DES ASSOCIATIONS PROFESSIONNELLES :  Membre de l'Association internationale de l'écologie industrielle (ISIE), Trésorière de l'Association des Scientifiques COréens en France (ASCOF)
 
-## CENTRES D'INTERET:  Voyage, Sport, Réalisation de pochettes d'album de musique, montage de vidéo
+### CENTRES D'INTERET:  Voyage, Sport, Réalisation de pochettes d'album de musique, montage de vidéo
