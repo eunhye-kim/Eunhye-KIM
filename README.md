@@ -1,11 +1,9 @@
 ![](images/photo.jpg)
 
 #### CONTACTE
-![](images/email.jpg)
 ##### eunhye.kim7897@gmail.com
 
-![](images/linkedin.jpg)
-##### /in/eunhyekim-urbaniste
+![](images/linkedin.jpg)[](http://linkedin.fr/in/eunhyekim-urbaniste)
 
 [Link to research projects site (in prepration)](http://eunhye-kim.github.io/Eunhye-KIM/)
 
