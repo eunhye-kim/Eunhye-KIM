@@ -1,11 +1,15 @@
 ![](images/photo.jpg)
 
-##### CONTACTE
-![](images/email.jpg) eunhye.kim7897@gmail.com
-![](images/linkedin.jpg) /in/eunhyekim-urbaniste
-[Link to research projects site in prepration](http://eunhye-kim.github.io/Eunhye-KIM/)
+#### CONTACTE
+![](images/email.jpg)
+##### eunhye.kim7897@gmail.com
 
-##### COMPETENCES TECHNIQUES
+![](images/linkedin.jpg)
+##### /in/eunhyekim-urbaniste
+
+[Link to research projects site (in prepration)](http://eunhye-kim.github.io/Eunhye-KIM/)
+
+#### COMPETENCES TECHNIQUES
 CARTO. INFORMATIQUE: MapInfo-MapBasic, QGIS
 TRAITEMENT STATISTIQUE: EXCEL, SPSS
 DAO: Illustrator, Photoshop, AutoCad
@@ -13,7 +17,7 @@ DAO: Illustrator, Photoshop, AutoCad
 -----------------------------------------------------------------
 
 ## EXPERIENCES PROFESSIONNELLES
-#### Oct.2016- nov. 2017   Formatrice, Chargée de la Direction des études, Institut d'Aménagement des Territoires, d'Environnement et d'Urbanisme de Reims (IATEUR)
+#### Oct.2016- dec. 2017   Formatrice, Chargée de la Direction des études, Institut d'Aménagement des Territoires, d'Environnement et d'Urbanisme de Reims (IATEUR)
 
  - Formatrice sur la Urbanisme Durable (éco-quartier, certification)
  - Recherche de partenariats, rédaction et négociation de conventions de partenariats (Frey, Agence d'urbanisme, ARCA)
