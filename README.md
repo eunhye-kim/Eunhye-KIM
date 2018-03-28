@@ -7,7 +7,7 @@
 ![](images/linkedin.jpg)[](http://linkedin.fr/in/eunhyekim-urbaniste)
 
 [Link to UrbanmetabolismofParis site (in prepration)](http://eunhye-kim.github.io/Eunhye-KIM/)
-Thèse: Transitions énergétiques urbaines du XIXe au XXIe siècles (Paris)
+
 ### COMPETENCES TECHNIQUES
 * CARTO. INFORMATIQUE: MapInfo-MapBasic, QGIS-Python
 * TRAITEMENT STATISTIQUE: EXCEL, SPSS
