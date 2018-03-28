@@ -55,7 +55,7 @@ Compétition et régulation des marchés de l’énergie - Ecole des Mines de Pa
 
 -----------------------------------------------------------------
 ## ACTIVITES DANS DES ASSOCIATIONS PROFESSIONNELLES   
-Membre de l'Association internationale de l'écologie industrielle (ISIE(https://is4ie.org/)) depuis 2009, Trésorière de l'Association des Scientifiques COréens en France (ASCOF(http://ascof.eu/)) depuis jan. 2017
+Membre de l'Association internationale de l'écologie industrielle ([ISIE](https://is4ie.org/)) depuis 2009, Trésorière de l'Association des Scientifiques COréens en France ([ASCOF](http://ascof.eu/)) depuis jan. 2017
 
 ## CENTRES D'INTERET  
 Randonnée, Réalisation de pochettes d'album de musique, montage de vidéo
