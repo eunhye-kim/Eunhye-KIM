@@ -7,7 +7,7 @@
 ![](images/linkedin.jpg)[](http://linkedin.fr/in/eunhyekim-urbaniste)
 
 [Link to UrbanmetabolismofParis site (in prepration)](http://eunhye-kim.github.io/Eunhye-KIM/)
-
+Thèse: Transitions énergétiques urbaines du XIXe au XXIe siècles (Paris)
 ### COMPETENCES TECHNIQUES
 * CARTO. INFORMATIQUE: MapInfo-MapBasic, QGIS-Python
 * TRAITEMENT STATISTIQUE: EXCEL, SPSS
@@ -39,15 +39,15 @@
 
 
 -----------------------------------------------------------------
-## FORMATION
-#### 2013
-Doctorat en Aménagement, Spécialité Ecologie industrielle et territoriale - Centre de Recherche sur l'Industrie et l'Aménagement, Université Paris 1
+## FORMATION 
+#### 2013  Doctorat en Aménagement
+Spécialité Ecologie industrielle et territoriale - Centre de Recherche sur l'Industrie et l'Aménagement, Université Paris 1. Thèse: Les transitions énergétiques urbaines du XIXe au XXIe siècle: de la biomasse aux combustibles fossiles et fissiles à Paris [Link](https://tel.archives-ouvertes.fr/tel-00999911/) 
 
-#### 2007
-Master2 en Génie Urbain, Option Développement Urbain Durable - Université Paris Est Marne-la-Vallée. Mémoire: Planification énergétique à l'échelle du quartier
+#### 2007  Master2 en Génie Urbain
+Option Développement Urbain Durable - Université Paris Est Marne-la-Vallée. Mémoire: Planification énergétique à l'échelle du quartier
 
-#### 2002
-Diplôme d'Ingénieur en Génie Urbain (Aménagement et Transport)- Université Hongik, Séoul
+#### 2002  Diplôme d'Ingénieur en Génie Urbain
+Département Génie civil et génie urbain, Université Hongik, Séoul
 
 ## FORMATIONS CONTINUES
 Compétition et régulation des marchés de l’énergie - Ecole des Mines de Paris (mars 2017), Les Plans de Déplacement Urbain, de l'évaluation à la révision- Ecole des Ponts (mars 2012)
@@ -55,9 +55,9 @@ Compétition et régulation des marchés de l’énergie - Ecole des Mines de Pa
 
 -----------------------------------------------------------------
 ## ACTIVITES DANS DES ASSOCIATIONS PROFESSIONNELLES   
-Membre de l'Association internationale de l'écologie industrielle (ISIE) depuis 2009, Trésorière de l'Association des Scientifiques COréens en France (ASCOF) depuis jan. 2017
+Membre de l'Association internationale de l'écologie industrielle (ISIE(https://is4ie.org/)) depuis 2009, Trésorière de l'Association des Scientifiques COréens en France (ASCOF(http://ascof.eu/)) depuis jan. 2017
 
-## CENTRES D'INTERET:  
+## CENTRES D'INTERET  
 Randonnée, Réalisation de pochettes d'album de musique, montage de vidéo
 
 
