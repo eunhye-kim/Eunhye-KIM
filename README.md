@@ -1,16 +1,17 @@
 ![](images/photo.jpg)
 
-#### CONTACTE
+
+### CONTACTE
 ##### eunhye.kim7897@gmail.com
 
 ![](images/linkedin.jpg)[](http://linkedin.fr/in/eunhyekim-urbaniste)
 
-[Link to research projects site (in prepration)](http://eunhye-kim.github.io/Eunhye-KIM/)
+[Link to UrbanmetabolismofParis site (in prepration)](http://eunhye-kim.github.io/Eunhye-KIM/)
 
-#### COMPETENCES TECHNIQUES
-CARTO. INFORMATIQUE: MapInfo-MapBasic, QGIS
-TRAITEMENT STATISTIQUE: EXCEL, SPSS
-DAO: Illustrator, Photoshop, AutoCad
+### COMPETENCES TECHNIQUES
+* CARTO. INFORMATIQUE: MapInfo-MapBasic, QGIS-Python
+* TRAITEMENT STATISTIQUE: EXCEL, SPSS
+* DAO: Illustrator, Photoshop, AutoCad
 
 -----------------------------------------------------------------
 
@@ -36,6 +37,8 @@ DAO: Illustrator, Photoshop, AutoCad
 
 #### 2004	 Urbaniste, Kyungwha Engineering, Séoul, Corée du Sud- Bureau d'études en urbanisme, en transport et en génie civil (CDD 6 mois)
 
+
+-----------------------------------------------------------------
 ## FORMATION
 #### 2013
 Doctorat en Aménagement, Spécialité Ecologie industrielle et territoriale - Centre de Recherche sur l'Industrie et l'Aménagement, Université Paris 1
@@ -47,31 +50,35 @@ Master2 en Génie Urbain, Option Développement Urbain Durable - Université Par
 Diplôme d'Ingénieur en Génie Urbain (Aménagement et Transport)- Université Hongik, Séoul
 
 ## FORMATIONS CONTINUES
-Compétition et régulation des marchés de l’énergie - Ecole des Mines de Paris (mars 2017), Les Plans de Déplacement Urbain, de l'évaluation à la révision- Ecole des Ponts (mars 2018)
+Compétition et régulation des marchés de l’énergie - Ecole des Mines de Paris (mars 2017), Les Plans de Déplacement Urbain, de l'évaluation à la révision- Ecole des Ponts (mars 2012)
 
+
+-----------------------------------------------------------------
 ## ACTIVITES DANS DES ASSOCIATIONS PROFESSIONNELLES   
-Membre de l'Association internationale de l'écologie industrielle (ISIE), Trésorière de l'Association des Scientifiques COréens en France (ASCOF)
+Membre de l'Association internationale de l'écologie industrielle (ISIE) depuis 2009, Trésorière de l'Association des Scientifiques COréens en France (ASCOF) depuis jan. 2017
 
 ## CENTRES D'INTERET:  
 Randonnée, Réalisation de pochettes d'album de musique, montage de vidéo
 
 
+-----------------------------------------------------------------
 
 ## PUBLICATION
-- KIM, E., ARNOUX, M. CHATZIMPIROS, P. 2017. « Agri-food-energy systems metabolism: A historical study for northern France, from 19th to 21th centuries ». Regional Environmental Change 2017: 1-11. [en ligne] : http://link.springer.com/article/10.1007/s10113-017-1119-3.
-- KIM, E., BARLES, S. 2012. « The energy consumption of Paris and its supply area from the 18th century to the present ». Regional Environmental Change 12: 295-310. Disponible en format pdf [en ligne] : http://link.springer.com/content/pdf/10.1007%2Fs10113-011-0275-0  
+- KIM, E., ARNOUX, M. CHATZIMPIROS, P. 2017. « Agri-food-energy systems metabolism: A historical study for northern France, from 19th to 21th centuries ». Regional Environmental Change 2017: 1-11. [Link](http://link.springer.com/article/10.1007/s10113-017-1119-3)
+- KIM, E., BARLES, S. 2012. « The energy consumption of Paris and its supply area from the 18th century to the present ». Regional Environmental Change 12: 295-310. Disponible en format pdf [Link](http://link.springer.com/content/pdf/10.1007%2Fs10113-011-0275-0)   
 - KIM, E. 2015. « Etude du métabolisme urbain à long terme : le cas de la consommation énergétique de Paris et de la région Ile-de-France, XVIIIe-XXI siècles », p. 187-216. in : Junqua, G., et S. Brullot. 2015. « Écologie industrielle et territoriale COLEIT 2012 », Presses de l'Ecole des Mines de Paris. 381 p.
 - KIM, E., BARLES, S. 2010. « The Long Term Energetic metabolism of Paris (France) : first  quantitative results, 18th-20th century », International Society of Ecological Economics 2010 Conference Chair, Advancing Sustainability in an Time of Crisis, Oldenbourg- Brême, Allemagne, 22 – 25 août, 2010.
 - BARLES, S., BILLEN, G., CHATZIMPIROS, P., KIM, E.,  GARNIER, J., SILVESTRE, M. « Ville et fonctionnement du bassin de la Seine : matériaux de construction, sol, énergie, alimentation. Contribution à une écologie territoriale », p. 1-41, in : Programme - PIREN-Seine, rapport de synthèse 2007-2010. Paris : UMR CNRS 7619 Sisyphe, févr. 2011. Pag. mult.
-- BILLEN, G., BARLES, S., CHATZIMPIROS, P., KIM, E., GARNIER, J. « L’empreinte environnementale de Paris », p. 1-11, in : Programme PIREN-Seine, rapport d’activité 2009. Paris : UMR CNRS 7619 Sisyphe, févr. 2010. Pag. mult. Disponible sur la toile, [réf. du 15 oct. 2010], format PDF, http://www.sisyphe.upmc.fr/piren/?q=book/1204
+- BILLEN, G., BARLES, S., CHATZIMPIROS, P., KIM, E., GARNIER, J. « L’empreinte environnementale de Paris », p. 1-11, in : Programme PIREN-Seine, rapport d’activité 2009. Paris : UMR CNRS 7619 Sisyphe, févr. 2010. [Link](http://www.sisyphe.upmc.fr/piren/?q=book/1204) 
 - Contributrice à : BARLES, S. (ed.). Projet Confluent. Rapport final pour le compte de l’ANR (t+30 mois), programme Villes durables. Paris : UMR Géographie-Cités, 2013. Pag. Mult.
 
 
+-----------------------------------------------------------------
 ## COMMUNICATION
-- KIM, E. « The wind and water energy in the energy mix, case of the Seine river basin during the 19th century », ; Mobilising and Using Energy from Antiquity to Present Times, International environmental history conference organised by the RUCHE, Bordeaux-Montaigne University 8-10 September 2016
+- KIM, E. « The wind and water energy in the energy mix, case of the Seine river basin during the 19th century », ; Mobilising and Using Energy from Antiquity to Present Times, International environmental history conference organised by the RUCHE, Bordeaux-Montaigne University 8-10 September 2016.
 - KIM, E. « Approvisionnement  en  énergie  de  la  ville  de  Paris  (19e et  20e siècles) », Questionner « l’économie circulaire ». Convergence des enjeux économiques, sociaux et écologiques ? (Une perspective croisée sur Paris et Bruxelles), Université libre de Bruxelles, 30 mai 2016.
-- KIM, E.  « The Long-term spatial and temporal dynamics of urban metabolism: the case of Paris urban energy metabolism 1800-2006 »,  ISIE Conference 2015,  Taking Stock of Industrial Ecology, University of Surrey, UK,  7-10th July 2015. (Communication acceptée)
-- KIM, E. « The part of renewable energy  in  the  energy  mix  in  19th  century,  Paris »,  Session : Pre-modern and modern energy transitions, XVIITH  World Economic History Congress, Kyoto 3-7 August,  2015.  (Communication acceptée)
+- KIM, E.  « The Long-term spatial and temporal dynamics of urban metabolism: the case of Paris urban energy metabolism 1800-2006 »,  ISIE Conference 2015,  Taking Stock of Industrial Ecology, University of Surrey, UK,  7-10th July 2015. 
+- KIM, E. « The part of renewable energy  in  the  energy  mix  in  19th  century,  Paris »,  Session : Pre-modern and modern energy transitions, XVIITH  World Economic History Congress, Kyoto 3-7 August,  2015.
 - KIM, E. « Évolution du métabolisme énergétique urbain : changement des sources d’énergie, croissance de la demande, évolution du système d’approvisionnement, le cas de l’agglomération parisienne, 1801 – 2006 », Colloque biennal des Zones Ateliers, 12-13 déc. 2013.
 - KIM, E. « Etude du métabolisme urbain à long terme : le cas de la consommation énergétique de Paris et de la région Ile-de-France, XVIIIe-XXI siècles », communication au Colloque Interdisciplinaire sur l’écologie industrielle et territoriale, Troyes, France, 17 – 18 oct., 2012.
 - KIM, E., BARLES, S. « The energetic metabolism of Paris and its environmental imprint since the 19th century-using Material and Energy Flow Accounting », communication à la European Society of Industrial Ecology Conference MFA-ConAccount, Social metabolism, Darmstadt, Allemagne, 22-25 août, 2012.
